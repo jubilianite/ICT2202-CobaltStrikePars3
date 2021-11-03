@@ -16,4 +16,4 @@ Enjoy !
 ## Contributors
 | Name         | Email                 |
 |------------- | --------------------- |
-| Marven Lim   | 
+| Marven Lim   | 2001357@sit.singaporetech.edu.sg |
