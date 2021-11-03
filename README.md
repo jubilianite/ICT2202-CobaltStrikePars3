@@ -17,3 +17,4 @@ Enjoy !
 | Name         | Email                 |
 |------------- | --------------------- |
 | Marven Lim   | 2001357@sit.singaporetech.edu.sg |
+| Lim Wei Kai | 2001112@sit.singaporetech.edu.sg |
