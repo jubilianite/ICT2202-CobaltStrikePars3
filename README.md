@@ -9,6 +9,6 @@ This document provides the instruction on how you can make use of CobaltStrikePa
 ```bash
     volatility3 > volatility3 > plugins > windows
 ```
-#### 4. Run and and use the plugin !
+#### 4. Run and and use the plugin 
 
 Enjoy !
