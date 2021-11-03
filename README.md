@@ -8,7 +8,7 @@ This document provides the instruction on how you can make use of CobaltStrikePa
 #### 3. Drag and drop the plugin code that you have downloaded in to the specific folder in your Volatility3 found in your local machine.
 ```bash
     volatility3 > volatility3 > plugins > windows
-
+```
 #### 4. Run and and use the plugin !
 
 Enjoy !
