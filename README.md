@@ -18,3 +18,5 @@ Enjoy !
 |------------- | --------------------- |
 | Marven Lim   | 2001357@sit.singaporetech.edu.sg |
 | Lim Wei Kai | 2001112@sit.singaporetech.edu.sg |
+| Teng Yan Hao | 2003002@sit.singaporetech.edu.sg |
+| Jubilian Ho | 2000810@sit.singaporetech.edu.sg |
