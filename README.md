@@ -12,3 +12,8 @@ This document provides the instruction on how you can make use of CobaltStrikePa
 #### 4. Run and and use the plugin 
 
 Enjoy !
+
+## Contributors
+| Name         | Email                 |
+|------------- | --------------------- |
+| Marven Lim   | 
