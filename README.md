@@ -7,7 +7,7 @@ This document provides the instruction on how you can make use of CobaltStrikePa
 #### 2. Download [CobaltStrikePars3](https://github.com/LimWeiKai/ICT-2202-Team-YH-/blob/gh-pages/CobaltStrikePars3.py "CobaltstrikePars3")
 #### 3. Place CobaltStrikePars3 in Volatility3's windows plugins directory
 ```bash
-    Volatility3's windows plugins directory: volatility3/plugins/windows/
+    volatility3/plugins/windows/
 ```
 #### 4. Run the plugin 
 ```bash
