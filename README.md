@@ -3,15 +3,17 @@ Welcome to the user manual.
 This document provides the instruction on how you can make use of CobaltStrikePars3 plugin in your Volatility3
 
 ## How to run the Plugin
-#### 1. Ensure that your [Volatility3](https://github.com/volatilityfoundation/volatility3 "Volatility3") has been installed and functional in your environment
-#### 2. Download [CobaltStrikePars3](https://github.com/LimWeiKai/ICT-2202-Team-YH-/blob/gh-pages/CobaltStrikePars3.py "CobaltstrikePars3") from our repository to your local machine
-#### 3. Drag and drop the plugin code that you have downloaded in to the specific folder in your Volatility3 found in your local machine.
+#### 1. Ensure that [Volatility3](https://github.com/volatilityfoundation/volatility3 "Volatility3") has been properly installed on your device
+#### 2. Download [CobaltStrikePars3](https://github.com/LimWeiKai/ICT-2202-Team-YH-/blob/gh-pages/CobaltStrikePars3.py "CobaltstrikePars3")
+#### 3. Place CobaltStrikePars3 in Volaitlity3's windows plugins directory
 ```bash
-    Place the plugin in the following directory: volatility3/plugins/windows
+    Volatility3's windows plugins directory: volatility3/plugins/windows
 ```
-#### 4. Run and and use the plugin 
-
-Enjoy !
+#### 4. Run the plugin 
+```bash
+    python3 vol.py -f [Memory Capture File] windows.CobaltStrikePars3.CSParse
+```
+Enjoy!
 
 ## Contributors
 | Name         | Email                 |
