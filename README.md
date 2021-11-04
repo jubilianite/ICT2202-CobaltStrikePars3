@@ -5,9 +5,9 @@ This document provides the instruction on how you can make use of CobaltStrikePa
 ## How to run the Plugin
 #### 1. Ensure that [Volatility3](https://github.com/volatilityfoundation/volatility3 "Volatility3") has been properly installed on your device
 #### 2. Download [CobaltStrikePars3](https://github.com/LimWeiKai/ICT-2202-Team-YH-/blob/gh-pages/CobaltStrikePars3.py "CobaltstrikePars3")
-#### 3. Place CobaltStrikePars3 in Volaitlity3's windows plugins directory
+#### 3. Place CobaltStrikePars3 in Volatility3's windows plugins directory
 ```bash
-    Volatility3's windows plugins directory: volatility3/plugins/windows
+    Volatility3's windows plugins directory: volatility3/plugins/windows/
 ```
 #### 4. Run the plugin 
 ```bash
