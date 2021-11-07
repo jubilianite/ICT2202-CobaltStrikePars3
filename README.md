@@ -14,7 +14,7 @@ This document provides the instruction on how you can make use of CobaltStrikePa
     python3 vol.py -f [Memory Capture File] windows.CobaltStrikePars3.CSParse
 ```
 
-Click [here](https://www.youtube.com/watch?v=k9US_TTdkNE&ab_channel=ICT2202Proj) for the demo video. 
+Click [here](https://youtu.be/YGkqhZDCVC8) for the demo video. 
 
 Enjoy!
 
